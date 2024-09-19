@@ -29,4 +29,4 @@
 ### Отчет OrderPaymentTest
 ![image](https://github.com/user-attachments/assets/b8eb2809-b7e5-4ba7-bbaa-8a4dafc55d7a)
 
-Полный список найденных багов представлен в https://github.com/MarinaaBogdanova/Diplom/issues
+Полный список найденных багов представлен в [Issues](https://github.com/MarinaaBogdanova/Diplom/issues)
