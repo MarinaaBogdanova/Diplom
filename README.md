@@ -9,7 +9,7 @@
 ## Документация
 - [План тестирования](https://github.com/MarinaaBogdanova/Diplom/blob/main/documents/Plan.md)
 - [Отчет о тестировании](https://github.com/MarinaaBogdanova/Diplom/blob/main/documents/Report.md)
-- [Отчет об автобатизации тестирования](https://github.com/MarinaaBogdanova/Diplom/blob/main/documents/Summary.md)
+- [Отчет об автоматизации тестирования](https://github.com/MarinaaBogdanova/Diplom/blob/main/documents/Summary.md)
 
 # Алгоритм запуска автотестов
 ## Требуемое ПО
